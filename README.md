@@ -1,5 +1,5 @@
 <h3 align="center">
-🚧 Bem Vindo a o Repositório da API para criação de notícias | Em Construção 🚧
+🚧 Svagger needs the fix 🚧
 </h3>
 
 <p align="center">
